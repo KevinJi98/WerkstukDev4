@@ -13,11 +13,14 @@ Mogelijke user stories:
 - Gebruiker klikt op volgende/vorige button om 15 nieuwe events op te halen
 
 Plan van aanpak bij coderen
+- Opvragen van data in JSON
 - Opvragen van data bij searchbar, knoppen, filters en ook bij inladen van website
 - Verschil zien wanneer filter ingedrukt is
 - Searchbar data opvragen als gebruiker iets tijpt
 - Knoppen van volgende pagina's
 - Genre en doelgroep filters moeten data aanpassen van de events
+- Functie for loop door de data om te checken welke verschillende genres er zijn
+- Knop filter maken bij filter gedrukt, geen filter dan weg
 
 Functies
 - Data opvragen
