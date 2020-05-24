@@ -1,6 +1,6 @@
 # WerkstukDev4
 
-Analayse van website
+Analyse van website
 Podiumaanhuis.be is een website waar er event zijn die je kan aanvragen om meer informatie te hebben over de bepaalde eventen.
 Er is een filter en een searchbar. Bij het gebruiken van de filters ga je de data van de ajaxcall aanpassen naargelang wat de gebruiker heeft gevraagd. 
 
