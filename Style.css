@@ -1,0 +1,93 @@
+body {
+    background-color: white;
+    width: 90%;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.search {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.contentEvents {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.events {
+    float: left;
+    width: 30%;
+    padding: 15px;
+}
+
+.events {
+    text-decoration: none;
+    flex-direction: column;
+    background-color: #e8edf4;
+    border-radius: 0 0 10px 10px;
+    display: flex;
+    margin-left: 0;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.playVideo img {
+    width: 10%;
+}
+
+.Genre {
+    margin-bottom: 25px;
+}
+
+.Doelgroep button {
+    margin: 10px 10px 10px 0px;
+    padding: 5px 10px;
+    color: #130b2c;
+    background-color: #e8edf4;
+    border: 2px solid #e8edf4;
+    border-radius: 10px;
+}
+
+.Genre button {
+    margin: 10px 10px 10px 0px;
+    padding: 5px 10px;
+    color: #130b2c;
+    background-color: #e8edf4;
+    border: 2px solid #e8edf4;
+    border-radius: 10px;
+}
+
+.ClickedBtn {
+    color: #fc2d75 !important;
+    border: 2px solid #fc2d75 !important;
+}
+
+#DeleteFilters {
+    margin-bottom: 24px;
+    background: none;
+    text-decoration: underline;
+    border-radius: 0;
+    border: none;
+    color: black;
+}
+
+.RequestedSearch {
+    display: flex;
+    flex-direction: column;
+}
+
+.searchDescription h3,
+p {
+    float: right;
+}
+
+
+.EventsBtn {
+    display: flex;
+    flex-direction: row;
+    padding-top: 25px;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 25px;
+}
